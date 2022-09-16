@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        //EratosthenesPrimeSieve e = new EratosthenesPrimeSieve();  //zum Testen
+        //System.out.println(e.isPrime(212));
+
     }
 }
